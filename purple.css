@@ -1,0 +1,12 @@
+
+
+:root {
+   --mainColor: purple;
+   --secColor: rgb(156, 70, 70);
+   --borderColor: #c1c1c1;
+
+   --mainText: black;
+   --secText: #4b5156;
+   --themeDotborder:#4faf22;
+   --previewBg: rgb(251,249,243,0.8);
+}
